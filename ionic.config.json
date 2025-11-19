@@ -1,0 +1,7 @@
+{
+  "name": "lottopicker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

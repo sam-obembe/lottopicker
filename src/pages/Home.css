@@ -1,0 +1,15 @@
+.lotto-selector-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.lotto-number-choice {
+    margin-left: 5px;
+    margin-right: 5px
+}
+
+@media (max-width: 500px) {
+    .lotto-selector-container {
+        max-width: 300px;
+    }
+}
